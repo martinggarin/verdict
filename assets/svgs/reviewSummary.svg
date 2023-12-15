@@ -1,0 +1,19 @@
+<svg width="186" height="180" viewBox="0 0 186 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="95.5" cy="90.5" r="70.5" fill="url(#paint0_linear_1735_6772)"/>
+<circle cx="178.467" cy="27.5" r="7.5" fill="#C070FF"/>
+<circle cx="20.0332" cy="10" r="10" fill="#C070FF"/>
+<circle cx="10.0332" cy="133" r="5" fill="#C070FF"/>
+<circle cx="165.533" cy="160.5" r="2.5" fill="#C070FF"/>
+<path d="M76.38 101.153L70.917 71.1065L85.9401 84.7639L95.5003 68.375L105.061 84.7639L120.084 71.1065L114.621 101.153H76.38ZM114.621 109.347C114.621 110.986 113.528 112.079 111.889 112.079H79.1114C77.4725 112.079 76.38 110.986 76.38 109.347V106.616H114.621V109.347Z" fill="white"/>
+<circle cx="106.533" cy="4.5" r="2.5" fill="#C070FF"/>
+<circle cx="62.5332" cy="176.5" r="3.5" fill="#C070FF"/>
+<circle cx="122.033" cy="171" r="1" fill="#C070FF"/>
+<circle cx="170.533" cy="110.5" r="2.5" fill="#C070FF"/>
+<circle cx="1.0332" cy="75" r="1" fill="#C070FF"/>
+<defs>
+<linearGradient id="paint0_linear_1735_6772" x1="166" y1="161" x2="-1.77734" y2="112.355" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9610FF"/>
+<stop offset="1" stop-color="#AF48FF"/>
+</linearGradient>
+</defs>
+</svg>
